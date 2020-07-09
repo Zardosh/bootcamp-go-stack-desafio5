@@ -37,7 +37,8 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "indent": ["error", 4]
   },
   "settings": {
     "import/resolver": {
